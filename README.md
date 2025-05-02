@@ -1,7 +1,7 @@
 <h1 align="center">Fullstack Developer</h1>
 
 ###
-<p align="center">In love with programming. Always chasing for simple solutions for every problem.<br><br>Currently focused in learning and development applications with Node.js and React.</p>
+<p align="center">In love with programming. Always chasing for simple solutions for every problem.<br><br>Currently focused in learning and development applications with Node.js and Angular</p>
 
 ###
 <div align="center">
@@ -12,12 +12,13 @@
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://avatars.githubusercontent.com/u/139426?v=4" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" height="40" width="52" alt="bitbucket logo"  />
 </div>
 
 ###
